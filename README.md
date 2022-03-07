@@ -7,4 +7,5 @@
 - 🔭 I’m currently working on a roblox game & discord bot
 - ⚡ Fun fact: I am married to your mum...
 
+![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Splashtair&show_icons=true)
 [![Splashtair GitHub stats](https://github-readme-stats.vercel.app/api?username=Splashtair)](https://github.com/anuraghazra/github-readme-stats)
