@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I am married to your mum...
 
 [![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Splashtair&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--[![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Splashtair)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Splash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Splashtair)](https://github.com/anuraghazra/github-readme-stats) -->
