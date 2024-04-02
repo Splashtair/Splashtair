@@ -4,7 +4,7 @@ I've been coding for about 5-7 years. One of my projects I am working on is Cook
 
 ## Current Projects
 
-**Cookie** - **Your favourite Cookie on discord!** I am back stronger than ever! Bringing a fresh batch of ingredients and cookies into your discord. Get started `/start`. Happy farming and baking, my Cookies!
+🍪 **Cookie** - **Your favourite Cookie on discord!** I am back stronger than ever! Bringing a fresh batch of ingredients and cookies into your discord. Get started `/start`. Happy farming and baking, my Cookies!
 
 You can invite it here:
 [`Cookie Invite`](https://discord.com/api/oauth2/authorize?client_id=990440502082019338&permissions=414464724032&scope=bot%20applications.commands)
