@@ -3,7 +3,7 @@
 - 👀 I’m interested in making my own projects
 - 🌱 I’m currently learning Python, Roblox Lua, and UI
 - 💞️ I’m looking to collaborate on many projects in the near future
-- 📫 How to reach me; Discord Aquafin#8824
+- 📫 How to reach me; Discord **@splashtair**
 - 🔭 I’m currently working on a roblox game & discord bot
 - ⚡ Fun fact: I am married to your mum...
 
