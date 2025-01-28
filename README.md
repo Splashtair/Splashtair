@@ -1,6 +1,6 @@
 # Hey there, I’m Splashtair 👋
 
-I've been coding for about 5-7 years. One of my projects I am working on is Cookie and a project that is secrelty in the works and will be possibly released by the end of 2024. I love what I do an explore different kinds of coding skils. I recently got into learning rustjs and it is so much fun! I plan on learning a lot more and release good projects.
+I've been coding for about 8 years. One of my projects I am working on is Cookie and a project that is secrelty in the works and will be possibly released by the end of 2024. I love what I do an explore different kinds of coding skils. I recently got into learning rustjs and it is so much fun! I plan on learning a lot more and release good projects.
 
 ## Current Projects
 
